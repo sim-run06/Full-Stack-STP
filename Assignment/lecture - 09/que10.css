@@ -1,0 +1,168 @@
+
+      *{
+        font-family: poppins;
+      }
+      .logo {
+        width: 280px;
+        height: 100px;
+        background-color: rgb(0 16 85);
+        padding-right: 1055px;
+        margin-top: 0px;
+      }
+      .content1 {
+        background-color: rgb(255, 255, 255);
+        align-items: center;
+        border: none;
+        border-radius: 16px;
+        width: 65%;
+        margin-left: 215px;
+        margin-top: 40px;
+        box-shadow: 0px 4px 5px grey;
+      }
+      .heading {
+        text-transform: uppercase;
+        color: rgb(255, 123, 0);
+        font-weight: 500;
+        letter-spacing: 3px;
+        font-size: 24px;
+        padding-bottom: 0px;
+        margin-bottom: 5px;
+      }
+      .btech {
+        margin-top: 0px;
+        padding-top: 0px;
+        color: rgb(0 16 85);
+      }
+      .para1 {
+        color: rgb(82, 81, 81);
+        width: 90%;
+        margin-left: 55px;
+        font-size: 18px;
+      }
+      .body1 {
+        font-size: 15px;
+        margin-left: 20px;
+      }
+      .table1 {
+        margin-top: 100px;
+      }
+      .people {
+        margin-left: 80px;
+      }
+      .admission {
+        width: 355px;
+        font-size: 28px;
+        text-align: center;
+        color: rgb(0 16 85);
+        margin-bottom: 8px;
+        margin-top: 35px;
+      }
+      .form {
+        margin-top: 5px;
+        background-color: rgb(0 16 85);
+        width: 355px;
+      }
+      .form input,
+      .form select {
+        width: 90%;
+        height: 34px;
+        margin-top: 10px;
+        border-radius: 5px;
+        border-style: none;
+      }
+      .img {
+        margin-top: 10px;
+        border-radius: 5px;
+      }
+      .form .check {
+        width: 12px;
+        height: 12px;
+      }
+      .form .agree {
+        color: white;
+        font-family: sans-serif;
+        font-size: small;
+        text-align: center;
+      }
+      .content2 {
+        background-color: #f3faff;
+        align-items: center;
+        border: none;
+        border-radius: 16px;
+        width: 65%;
+        margin-left: 215px;
+        margin-top: 100px;
+        box-shadow: 0px 4px 5px grey;
+      }
+      .heading2 {
+        color: rgb(255, 123, 0);
+        font-weight: 700;
+        margin-bottom: 5px;
+      }
+      .para2 {
+        color: rgb(54, 53, 53);
+        width: 90%;
+        margin-top: 3px;
+        margin-left: 55px;
+        font-size: 18px;
+        font-family: arial;
+      }
+      .table2 {
+        margin-left: 42px;
+        margin-top: 30px;
+        margin-bottom: 50px;
+      }
+      .content3 {
+        margin-top: 100px;
+        background-color: #f3faff;
+        width: 100%;
+        border: none;
+      }
+      .content3 p {
+        color: #4b4b4b;
+        margin-left: 100px;
+        margin-top: 0px;
+        font-size: 15px;
+      }
+      .heading3 {
+        text-transform: capitalize;
+        margin-top: 80px;
+        margin-left: 100px;
+        text-align: left;
+        color: rgb(0 16 85);
+        margin-bottom: 0px;
+      }
+      .content4 {
+        width: 100%;
+        border: none;
+        background-color: #ffffff;
+        margin-top: 50px;
+        margin-left: 0px;
+        padding-left: 0px;
+      }
+      .but {
+        width: 480px;
+        text-align: justify;
+        background-color: #f5f4f4;
+        padding: 20px;
+        border-radius: 12px;
+      }
+      .dia {
+        width: 480px;
+        text-align: center;
+        background-color: #d4e8ff;
+        padding: 20px;
+        border-radius: 12px;
+        margin-left: 690px;
+        margin-bottom: 50px;
+      }
+      .table3 td {
+        background-color: #ffffff;
+        border-radius: 12px;
+        height: 110px;
+        width: 170px;
+        border: 1px solid grey;
+      }
+
+      /*  #ececec*/
+   
