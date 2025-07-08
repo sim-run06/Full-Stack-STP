@@ -1,0 +1,89 @@
+body {
+  overflow-x: hidden;
+}
+.navigation {
+  background-color: rgba(0, 0, 0, 0.466);
+  backdrop-filter: blur(3px);
+}
+.banner {
+  background-image: url("../images/banner4.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 50vh;
+  width: 100%;
+  overflow-x: hidden;
+  filter: grayscale(0.3);
+}
+.about {
+  color: white;
+  font-weight: 700;
+  font-family: chivo mono;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  font-size: 60px;
+  word-spacing: -2px;
+  text-align: center;
+}
+.about-short {
+  color: white;
+  text-align: center;
+}
+
+.red {
+  border: 2px solid red;
+}
+.yellow {
+  border: 2px solid yellow;
+}
+.seller-head {
+  text-align: center;
+  color: rgb(53, 61, 94);
+  padding-top: 50px;
+  font-size: 30px;
+  font-weight: 500;
+}
+.seller-para {
+  width: 50%;
+  text-align: center;
+  color: rgb(53, 61, 94);
+  margin: 30px auto;
+  font-weight: 400;
+  font-size: 15px;
+  margin-bottom: 70px;
+}
+.gal {
+  margin: 30px 10px;
+}
+
+.gal-item {
+  position: relative;
+  overflow: hidden;
+}
+
+.gal-item img {
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: all 0.3s ease;
+}
+
+.gal-item .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; /* Use 100% for proper full cover */
+  background-color: rgba(0, 0, 0, 0.3);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.gal-item:hover .overlay {
+  opacity: 1;
+}
+.gal-item:hover img {
+  transform: scale(0.95);
+}
+
+

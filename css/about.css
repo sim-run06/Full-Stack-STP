@@ -1,0 +1,118 @@
+body {
+  overflow-x: hidden;
+}
+.banner {
+  background-image: url("../images/banner1.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 50vh;
+  width: 100%;
+  overflow-x: hidden;
+  filter: grayscale(0.3);
+}
+.about {
+  color: white;
+  font-weight: 700;
+  font-family: chivo mono;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  font-size: 60px;
+  word-spacing: -2px;
+  text-align: center;
+}
+.about-short{
+  color: white;
+  text-align: center;
+}
+
+.red {
+  border: 2px solid red;
+}
+.yellow {
+  border: 2px solid yellow;
+}
+.second {
+  margin-top: 30px;
+}
+.mission {
+  color: #095859;
+  font-weight: 500;
+  font-family: chivo mono;
+  font-size: 30px;
+  text-align: center;
+}
+.mission-text {
+  color: #095859;
+  font-family: poppins;
+  text-align: center;
+  padding-top: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-weight: 400;
+}
+.values {
+  margin-top: 100px;
+}
+.values-text {
+  color: #063233;
+  font-family: poppins;
+  text-align: center;
+}
+.center-img > p {
+  padding-bottom: 50px;
+}
+.center-img {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.third {
+  background-color: rgb(243, 243, 243);
+}
+.about-text {
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+.logo {
+  font-family: logo;
+  font-size: larger;
+}
+.intro > p {
+  font-size: 12px;
+}
+
+
+.fourth{
+  background-color: white;
+  text-align: center;
+  padding-top: 30px;
+}
+.achieve {
+  padding-top: 30px;
+}
+.ac-te{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.ac-te img{
+  width: 100%;
+  height: auto;
+  display: block;
+  
+}
+.ac-te h3{
+  position: absolute;
+  color: #063233;
+  text-align: center;
+  width: 65%;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 16px;
+  line-height: 1.4;
+}
