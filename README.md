@@ -1,31 +1,26 @@
-# 🌍 SimTrip - Static Tourism Website
+🌸 Florify - Online Flower Store  
+Florify is a simple web application built using PHP, MySQL (MariaDB), HTML, CSS, and Bootstrap 3.  
+It allows users to browse flowers, add them to a cart, and place orders. An admin panel is included for managing products, users, and orders.
 
-SimTrip is a responsive, static tourism website built using HTML, CSS, and Bootstrap 3. It showcases beautiful travel destinations, tour packages, services, and helpful FAQs for curious travelers.
+🔗 Live Website  
+👉 https://florifyfinalproject.infinityfree.me/
 
-## 🔗 Live Website
-Access the live site here:  
-👉 [https://sim-run06.github.io/Full-Stack-STP/](https://sim-run06.github.io/Full-Stack-STP/)
+📁 Project Structure  
+index.php – Homepage  
+user/ – User panel (login, cart, orders)  
+admin/ – Admin panel (manage products, users, orders)  
+dbconfig/ – Database configuration files  
+assets/ – Images, CSS, and icons  
 
-## 📁 Project Structure
-- `index.html` – Home page
-- `about.html` – About SimTrip
-- `destination.html` – Popular travel destinations
-- `packages.html` – Top selling travel packages
-- `services.html` – Services offered
-- `faq.html` – Frequently asked questions
-- `gallery.html` – Photo gallery
-- `contact.html` – Contact form
-- `css/`, `images/`, `fonts/` – Assets and styling
+🚀 Features  
+✅ User registration and login  
+✅ Browse flower products with images and prices  
+✅ Add to cart and place orders  
+✅ Admin can manage products, users, and orders  
 
-## 🚀 Features
-- Fully responsive using Bootstrap 3
-- Interactive gallery and FAQ section
-- Clean, travel-themed aesthetic
-- Easy navigation and user-friendly layout
-
-## 🛠️ Tech Stack
-- HTML5
-- CSS3
+🛠️ Tech Stack  
+- PHP  
+- MySQL (MariaDB)  
+- HTML5  
+- CSS3  
 - Bootstrap 3
-
-
